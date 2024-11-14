@@ -13,8 +13,3 @@ Este proyecto implementa un programa en Python para el cifrado y descifrado de m
 1. Ingrese el texto, clave e IV en el formato adecuado.
 2. Seleccione el algoritmo deseado.
 3. Visualice el texto cifrado en Base64.
-
-## Aplicación
-
-El cifrado simétrico es útil para proteger datos en aplicaciones de mensajería, transacciones financieras y almacenamiento seguro.
-
